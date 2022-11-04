@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shiva Sai
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
-- 📫 You can reach me at shivas.bojjalwar@gmail.com
 
 <!---
 Shiva-Sai-ssb/Shiva-Sai-ssb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
