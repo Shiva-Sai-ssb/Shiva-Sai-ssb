@@ -77,8 +77,4 @@
 </a>  
 </div>  
 
-## DevCard
-<div align="Center">
-<a href="https://app.daily.dev/Shivasai_ssb"><img src="https://api.daily.dev/devcards/55874bfa27dd40068a915205dcc85171.png?r=qkh" width="400" alt="Shiva Sai's Dev Card"/></a>
-</div>  
 
