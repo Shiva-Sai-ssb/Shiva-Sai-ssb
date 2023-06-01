@@ -17,8 +17,8 @@ I value collaboration and knowledge sharing, as they are crucial for growth. If 
 ## 📊 Github Statistics
 <div align="center">
   
-[![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiva-Sai-ssb&theme=radical)](https://github.com/Shiva-Sai-ssb/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Sai-ssb&theme=radical&line_height=15)](https://github.com/Shiva-Sai-ssb/github-readme-stats)
+[![Shiva's GitHub stats](https://github-readme-stats-git-master-shiva-sai-ssb.vercel.app/api?username=Shiva-Sai-ssb&theme=radical)](https://github.com/Shiva-Sai-ssb/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-master-shiva-sai-ssb.vercel.app/api/top-langs/?username=Shiva-Sai-ssb&theme=radical&line_height=15)](https://github.com/Shiva-Sai-ssb/github-readme-stats)
 
   [![GitHub Streak Dark](https://streak-stats.demolab.com?user=Shiva-Sai-ssb&theme=radical)](https://git.io/streak-stats)
 </div>
